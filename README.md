@@ -18,15 +18,15 @@ All herald packages publish in [nuget.org](https://www.nuget.org/packages?q=id%3
 Herald have templates for make easyier create new projects.
 
 - WebAPI
-    + [Herald.ModelBinder](https://github.com/tcfialho/Herald.Template.Grpc): Creates a new WebAPI project.
-        > [![Nuget](https://buildstats.info/nuget/Herald.Template.Grpc)](https://www.nuget.org/packages/Herald.Template.Grpc)
+    + [Herald.Template.WebApi](https://github.com/tcfialho/Herald.Template.WebApi): Creates a new WebAPI project.
+        > [![Nuget](https://buildstats.info/nuget/Herald.Template.WebApi)](https://www.nuget.org/packages/Herald.Template.WebApi)
 
 - Worker
-    + [Herald.ModelBinder](https://github.com/tcfialho/Herald.Template.Grpc): Creates a new Worker project.
-        > [![Nuget](https://buildstats.info/nuget/Herald.Template.Grpc)](https://www.nuget.org/packages/Herald.Template.Grpc)
+    + [Herald.Template.Worker](https://github.com/tcfialho/Herald.Template.Worker): Creates a new Worker project.
+        > [![Nuget](https://buildstats.info/nuget/Herald.Template.Worker)](https://www.nuget.org/packages/Herald.Template.Worker)
 
 - gRPC
-    + [Herald.ModelBinder](https://github.com/tcfialho/Herald.Template.Grpc): Creates a new gRPC project.
+    + [Herald.Template.Grpc](https://github.com/tcfialho/Herald.Template.Grpc): Creates a new gRPC project.
         > [![Nuget](https://buildstats.info/nuget/Herald.Template.Grpc)](https://www.nuget.org/packages/Herald.Template.Grpc)
 
 ## Building Blocks
