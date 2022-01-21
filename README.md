@@ -50,8 +50,6 @@ Herald have difference packages/libraries, each lib handle a 3rd library or focu
         > [![Nuget](https://buildstats.info/nuget/Herald.Notification)](https://github.com/tcfialho/Herald.Notification)
 
 - Observability
-    + [Herald.Logging](https://github.com/tcfialho/Herald.Logging): Extends ILogger and Serilog to output logs in json format.
-        > [![Nuget](https://buildstats.info/nuget/Herald.Logging)](https://buildstats.info/nuget/Herald.Logging)
     + [Herald.Observability.Jaeger](https://github.com/tcfialho/Herald.Observability.Jaeger): Support add trace to the [Jaeger](https://github.com/jaegertracing/jaeger-client-csharp) automatically.
         > [![Nuget](https://buildstats.info/nuget/Herald.Observability.Jaeger)](https://buildstats.info/nuget/Herald.Observability.Jaeger)
 
