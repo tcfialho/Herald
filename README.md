@@ -15,7 +15,7 @@ All herald packages publish in [nuget.org](https://www.nuget.org/packages?q=id%3
 
 ## Templates (scaffolds)
 
-Herald has templates for make easyier create new projects.
+Herald has templates for make easier create new projects.
 
 - WebAPI
     + [Herald.Template.WebApi](https://github.com/tcfialho/Herald.Template.WebApi): Creates a new WebAPI project.
