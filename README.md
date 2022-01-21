@@ -5,7 +5,7 @@
 
 ## Overview
 
-Number of mini libraries to make faster develop .NET Core system.
+Templates and [building blocks](https://medium.com/@tcfialho/building-blocks-fffb192d8389) to make faster develop .NET Core system.
 
 ## Installation
 
