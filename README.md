@@ -15,7 +15,7 @@ All herald packages publish in [nuget.org](https://www.nuget.org/packages?q=id%3
 
 ## Templates (scaffolds)
 
-Herald have templates for make easyier create new projects.
+Herald has templates for make easyier create new projects.
 
 - WebAPI
     + [Herald.Template.WebApi](https://github.com/tcfialho/Herald.Template.WebApi): Creates a new WebAPI project.
@@ -31,7 +31,7 @@ Herald have templates for make easyier create new projects.
 
 ## Building Blocks
 
-Herald have difference packages/libraries, each lib handle a 3rd library or focus utility for a field.
+Herald has different packages/libraries, each lib handle a 3rd library or focus utility for a field.
 
 - Web
     + [Herald.Web.Swagger](https://github.com/tcfialho/Herald.Web.Swagger): Support add [Swagger](https://github.com/domaindrivendev/Swashbuckle) api documentation  automatically with a  single line of code.
