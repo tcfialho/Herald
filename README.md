@@ -38,6 +38,8 @@ Herald has different packages/libraries, each lib handle a 3rd library or focus 
         > [![Nuget](https://buildstats.info/nuget/Herald.Web.Swagger)](https://www.nuget.org/packages/Herald.Web.Swagger)
     + [Herald.ModelBinder](https://github.com/tcfialho/Herald.ModelBinder): Add support for controllers receive data throught path and body or path and querystring with same class.
         > [![Nuget](https://buildstats.info/nuget/Herald.ModelBinder)](https://www.nuget.org/packages/Herald.ModelBinder)
+    + [Herald.JsonSnakeCaseNamingPolicy](https://github.com/tcfialho/Herald.JsonSnakeCaseNamingPolicy): Add support for snake case namming policy.
+        > [![Nuget](https://buildstats.info/nuget/Herald.JsonSnakeCaseNamingPolicy)](https://www.nuget.org/packages/Herald.JsonSnakeCaseNamingPolicy)
              
 - Message Queues
     + [Herald.MessageQueue](https://github.com/tcfialho/Herald.MessageQueue): Working with different types of message brokers using a simple "foreach" abstraction..
