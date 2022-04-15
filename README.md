@@ -40,6 +40,8 @@ Herald has different packages/libraries, each lib handle a 3rd library or focus 
         > [![Nuget](https://buildstats.info/nuget/Herald.ModelBinder)](https://www.nuget.org/packages/Herald.ModelBinder)
     + [Herald.JsonSnakeCaseNamingPolicy](https://github.com/tcfialho/Herald.JsonSnakeCaseNamingPolicy): Add support for snake case namming policy.
         > [![Nuget](https://buildstats.info/nuget/Herald.JsonSnakeCaseNamingPolicy)](https://www.nuget.org/packages/Herald.JsonSnakeCaseNamingPolicy)
+    + [Herald.MediatR.Retry](https://github.com/tcfialho/Herald.MediatR.Retry): Add support for snake case namming policy.
+        > [![Nuget](https://buildstats.info/nuget/Herald.MediatR.Retry)](https://www.nuget.org/packages/Herald.MediatR.Retry)
              
 - Message Queues
     + [Herald.MessageQueue](https://github.com/tcfialho/Herald.MessageQueue): Working with different types of message brokers using a simple "foreach" abstraction..
